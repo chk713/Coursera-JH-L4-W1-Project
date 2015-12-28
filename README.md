@@ -1,14 +1,13 @@
 # Coursera-JH-L3-Project
 ==================================================================
-This data is from below below link for the Coursera course (Getting and Cleaning Data) by Johns Hopkins University.
+###This data is from below below link for the Coursera course (Getting and Cleaning Data) by Johns Hopkins University.
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-Below is "readme.txt" file from the original file source.
+###Below is "readme.txt" file from the original file source.
 ==================================================================
-
-
-
+==================================================================
+==================================================================
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
